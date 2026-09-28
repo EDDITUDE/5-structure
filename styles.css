@@ -9,9 +9,25 @@ body {
 .site-header {
     background-color: blueviolet;
     padding: 30px;
-    color: floralwhite;
+    color: #fff;
+    margin-bottom: 20px;
 }
 
 .page-name {
     margin: 0;
+}
+
+.nav-links {
+    color: #fff
+}
+
+.main-content {
+    background-color: cadetblue;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.site-footer {
+    background-color: chocolate;
+    padding: 30px;
 }
